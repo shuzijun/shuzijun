@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=shuzijun&show_icons=true&hide_title=true&hide_border=true)](https://github.com/shuzijun)
-![pc](https://raw.githubusercontent.com/shuzijun/shuzijun/master/pc.gif)
+<img src="https://raw.githubusercontent.com/shuzijun/shuzijun/master/pc.gif" width = "250" height = "250" alt=""/>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuzijun&layout=compact)](https://github.com/shuzijun) --> 
