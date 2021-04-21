@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=shuzijun&color=brightgreen)
 <!--
 **shuzijun/shuzijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
